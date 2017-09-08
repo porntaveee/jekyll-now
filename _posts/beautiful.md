@@ -9,5 +9,5 @@ category: My Blog
 
 [I'm an inline-style link](https://WWW.google.com)
 
-![การแต่งหน้า](http://www.akerufeed.com/wp-content/uploads/2016/09/eh160224-pepper9.jpg
-http://www.bntnews.co.uk/images/news/2013/y4bi192g7nzki6mksm4lhrb51ed8zhjn.jpg)
+![การแต่งหน้า](http://www.akerufeed.com/wp-content/uploads/2016/09/eh160224-pepper9.jpg)
+![การแต่งหน้า](http://www.bntnews.co.uk/images/news/2013/y4bi192g7nzki6mksm4lhrb51ed8zhjn.jpg)
